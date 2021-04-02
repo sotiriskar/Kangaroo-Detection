@@ -1,9 +1,0 @@
-python /Sign/models/research/object_detection/model_main_tf2.py \ --pipeline_config_path= /Sign/ssd_mobilenet_v2_320x320_coco17_tpu-8.config \--model_dir= Sign/ \--alsologtostderr \--num_train_steps= 7500 \--sample_1_of_n_eval_examples=1 \--num_eval_steps= 1000
-
-
-python models/research/object_detection/model_main_tf2.py \--pipeline_config_path=Desktop/Sign/ssd_mobilenet_v2_320x320_coco17_tpu-8.config \--model_dir= Sign \--alsologtostderr \--num_train_steps= 7500 \--sample_1_of_n_eval_examples=1 \--num_eval_steps= 1000
-
-
-python models/research/object_detection/model_main_tf2.py --model_dir=training --pipeline_config_path=ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8/pipeline.config --num_train_steps=2000 --alsologtostderr --sample_1_of_n_eval_examples=1 --num_eval_steps= 10000
-
-D:
