@@ -1,0 +1,2 @@
+I uploaded only a sample of the dataset. For the full dataset go to:
+https://www.kaggle.com/hugozanini1/kangaroodataset
